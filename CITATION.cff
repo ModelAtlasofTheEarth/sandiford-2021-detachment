@@ -1,1 +1,27 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Sandiford
+  given-names: Dan
+  orcid: http://orcid.org/0000-0002-2207-6837
+- family-names: Brune
+  given-names: Sascha
+  orcid: http://orcid.org/0000-0003-4985-1810
+- family-names: Glerum
+  given-names: Anne
+  orcid: http://orcid.org/0000-0002-9481-1749
+- family-names: Naliboff
+  given-names: John
+  orcid: http://orcid.org/0000-0002-5697-7203
+- family-names: Whittaker
+  given-names: Joanne M.
+  orcid: http://orcid.org/0000-0002-3170-3935
+title: "Kinematics of Footwall Exhumation at Oceanic Detachment faults: Solid\u2010\
+  Block Rotation and Apparent Unbending"
+version: ''
+doi: https://doi.org/10.25914/10.25914/r3ya-bg54
+date-released: '2024-05-17'
+url:
+- https://mate.science/models/sandiford-2021-detachment-1/
+- https://github.com/ModelAtlasofTheEarth/sandiford-2021-detachment-1/
+type: dataset
