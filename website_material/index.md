@@ -103,9 +103,6 @@ research_tags:
   - tectonics
   - faulting
   - detachment faults
-  - C++
-  - finite-element
-  - mesh-refinement
 compute_tags:
   - C++
   - finite-element
@@ -195,7 +192,7 @@ model_files:
     (fix_stresses_elasticity, 621dd61f2), using deal.II 9.4.2.
   file_tree: ''
   existing_identifier: https://github.com/dansand/odf_paper
-  nci_file_path: 
+  nci_file_path:
     https://dapds00.nci.org.au/thredds/catalog/nm08/MATE/sandiford-2021-detachment-1/catalog.html
   include: true
 dataset:
@@ -209,7 +206,7 @@ dataset:
     solution-00000.0000.vtu). At each output step, there are 16 vtu files written.
     These can be opened with Paraview using the solution.pvd file in the top level.'
   existing_identifier: ''
-  nci_file_path: 
+  nci_file_path:
     https://dapds00.nci.org.au/thredds/catalog/nm08/MATE/sandiford-2021-detachment-1/catalog.html
   include: true
 metadataFile: ro-crate-metadata.json
