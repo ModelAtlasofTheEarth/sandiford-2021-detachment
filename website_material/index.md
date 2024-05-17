@@ -143,23 +143,19 @@ description: This model was developed in order to study the rotation of footwall
   within oceanic core complexes (OCCs).
 images:
   landing_image:
-    src: ''
-    caption: "![fig1](https://github.com/ModelAtlasofTheEarth/Model_Submission/assets/10967872/7f203806-1aed-4952-9b12-63e3b76ddd3d)\n
-      Deviatoric stresses and vorticity in reference model."
+    src: ./graphics/fig1.png
+    caption: Deviatoric stresses and vorticity in reference model.
   graphic_abstract:
-    src: ''
-    caption: "![fig4](https://github.com/ModelAtlasofTheEarth/Model_Submission/assets/10967872/ca7dd23e-aa3b-4809-9a35-b2b9c26dbf89)\n
-      Schematic showing the stress state that would be generated assuming elastic
+    src: ./graphics/fig4.png
+    caption: Schematic showing the stress state that would be generated assuming elastic
       constitutive response of the ODF footwall (top). Bottom shows the strain-rate
-      due to \"advective\" component of the curvature rate."
+      due to "advective" component of the curvature rate.
   model_setup:
-    src: ''
-    caption: "![initialconds](https://github.com/ModelAtlasofTheEarth/Model_Submission/assets/10967872/bbc016ba-3da5-4135-b0e8-594d6fac89d0)\n
-      Initial conditions, showing mesh refinement."
+    src: ./graphics/initialconds.png
+    caption: Initial conditions, showing mesh refinement.
 animation:
-  src: ./graphics/
-  caption: "https://github.com/ModelAtlasofTheEarth/Model_Submission/assets/10967872/1f89632e-53ee-4b34-8eaf-2f8a8ce351a4\n
-    Animation for alternative model showing vorticity."
+  src: ./graphics/animation.mp4
+  caption: Animation for alternative model showing vorticity.
 model_setup_info:
   url: ''
   summary: The domain is $400 \; \mathrm{km}$ wide and $100 \; \mathrm{km}$ deep,
@@ -195,7 +191,7 @@ model_files:
     (fix_stresses_elasticity, 621dd61f2), using deal.II 9.4.2.
   file_tree: ''
   existing_identifier: https://github.com/dansand/odf_paper
-  nci_file_path: 
+  nci_file_path:
     https://dapds00.nci.org.au/thredds/catalog/nm08/MATE/sandiford-2021-detachment-1/catalog.html
   include: true
 dataset:
@@ -209,7 +205,7 @@ dataset:
     solution-00000.0000.vtu). At each output step, there are 16 vtu files written.
     These can be opened with Paraview using the solution.pvd file in the top level.'
   existing_identifier: ''
-  nci_file_path: 
+  nci_file_path:
     https://dapds00.nci.org.au/thredds/catalog/nm08/MATE/sandiford-2021-detachment-1/catalog.html
   include: true
 metadataFile: ro-crate-metadata.json
