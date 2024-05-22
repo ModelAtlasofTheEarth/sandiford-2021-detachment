@@ -19,9 +19,9 @@ authors:
 title: "Kinematics of Footwall Exhumation at Oceanic Detachment faults: Solid\u2010\
   Block Rotation and Apparent Unbending"
 version: ''
-doi: https://doi.org/10.25914/10.25914/r3ya-bg54
+doi: https://doi.org/10.25914/r3ya-bg54
 date-released: '2024-05-17'
 url:
-- https://mate.science/models/sandiford-2021-detachment-1/
-- https://github.com/ModelAtlasofTheEarth/sandiford-2021-detachment-1/
+- https://mate.science/models/sandiford-2021-detachment/
+- https://github.com/ModelAtlasofTheEarth/sandiford-2021-detachment/
 type: dataset

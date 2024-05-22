@@ -16,7 +16,7 @@ Dan Sandiford ([0000-0002-2207-6837](https://orcid.org/0000-0002-2207-6837))
   
 **Model name:**  
 
-`sandiford-2021-detachment-1` 
+`sandiford-2021-detachment` 
 
 (this will be the name of the model repository when created) 
 
